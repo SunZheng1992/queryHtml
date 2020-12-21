@@ -1,5 +1,5 @@
 <?php 
-namespace QueryHtml;
+namespace SunZheng\QueryHtml;
 
 class QueryHtml{
     public function find($str){        

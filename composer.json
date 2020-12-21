@@ -12,5 +12,10 @@
     },
     "require-dev":{
         "phpunit/phpunit": "^8.5.5 || ^9.3.5"
+    },
+    "autoload": {
+        "psr-4":{
+            "SunZheng\\QueryHtml":"src/"
+        }
     }
 }
